@@ -8,4 +8,4 @@
 
 
 ### <웹페이지 바로가기>
-### click here to open web page = https://https://wondonghwi.github.io/GitHub_CloneCoding--CSS-/
+### click here to open web page = https://wondonghwi.github.io/GitHub_CloneCoding--CSS-/.
