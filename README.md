@@ -12,6 +12,12 @@
 <반응형 options>
 1024px 이상 (Desktops)
 
+![](img/1024+.PNG)
+
 1024px 이하(Tablets)
 
+![](img/1024-.PNG)
+
 768px 이하(Tablets + Phones)
+
+![](img/768-.PNG)
