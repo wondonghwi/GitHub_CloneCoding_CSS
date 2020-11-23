@@ -7,4 +7,4 @@
 
 
 
-### [웹으로 바로가기](https://wondonghwi.github.io/GitHub_CloneCoding_CSS/.)
+### [웹페이지 바로가기](GitHub_CloneCoding_CSS)
