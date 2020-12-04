@@ -12,14 +12,14 @@
 상위 일부분만 캡처해서 미리보기가 가능하도록 했습니다.
 
 <반응형 options>
-1024px 이상 (Desktops)
+Preview - 1024px 이상 (Desktops)
 
 ![](img/1024+.PNG)
 
-1024px 이하(Tablets)
+Preview - 1024px 이하(Tablets)
 
 ![](img/1024-.PNG)
 
-768px 이하(Tablets + Phones)
+Preview - 768px 이하(Tablets + Phones)
 
 ![](img/768-.PNG)
