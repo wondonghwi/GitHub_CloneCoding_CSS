@@ -355,6 +355,17 @@ header .sub-menu li a:hover {
     padding: 14px 10% 24px;
 }
 
+.section--feature .tiles li h3 {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.section--feature .tiles li p {
+    font-size: 14px;
+    color: #767676;
+}
+
 /*WHERE IS*/
 .section--where-is .inner {
     margin-top: 80px;
